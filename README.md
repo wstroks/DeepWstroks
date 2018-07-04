@@ -1,6 +1,8 @@
 # Estudo do Deep WSTROKS
 
-![Vamos lá](https://res.cloudinary.com/teepublic/image/private/s--0Fzpje0E--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1473290774/production/designs/671660_1.jpg)
+<p align="center">
+  <img width="460" height="400" src="https://d6ce0no7ktiq.cloudfront.net/images/preview/2015/10/05/design-5762/template-sticker-600x600.png">
+</p>
 
 ## Pasta aprendizado de maquina (Machine Learning e Data Science com Python)
 
