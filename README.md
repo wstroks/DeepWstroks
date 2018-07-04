@@ -4,7 +4,7 @@
   <img width="460" height="400" src="https://d6ce0no7ktiq.cloudfront.net/images/preview/2015/10/05/design-5762/template-sticker-600x600.png">
 </p>
 
-## Pasta aprendizado de maquina (Machine Learning e Data Science com Python)
+## Pasta Aprendizado de Maquina (Machine Learning e Data Science com Python)
 
 Um curso com foco em python, aprensenta conceitos de pandas,keras, sk-learning e etc. Machine Learning, Pré-processamento com pandas e scikit-learn , Aprendizagem bayesiana , Aprendizagem por árvores de decisão , Aprendizagem por regras, Aprendizagem baseada em instâncias, Regressão logística, Máquinas de vetores de suporte (SVM), Redes neurais artificiais e Avaliação de algoritmos de classificação. Aprensenta base de dados do census, risco-credito e credit-data.
 
